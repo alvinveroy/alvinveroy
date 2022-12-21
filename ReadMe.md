@@ -1,16 +1,35 @@
-# Alvin T. Veroy
+## Alvin T. Veroy
 ### Technology Consultant
+#
 
-Website
-Email
-Github
-Gitlab
-Facebook
-Instagram
-Twitter
-Linkedin
-WhatsApp
+<div id="badges">
+  <a href="https://alvin.tech">
+    <img src="https://img.shields.io/badge/🌐 Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="mailto:hello@alvin.tech">
+    <img src="https://img.shields.io/badge/✉️ Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/alvinveroy">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://open.spotify.com/show/104w5B9WvqrUD0IExjcQMu?si=2dff5f242a6c4815">
+    <img src="https://img.shields.io/badge/Spotify-red?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
+  <a href="https://twitter.com/AlvinVeroy">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.facebook.com/alvindottech">
+    <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alvinveroy/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://www.instagram.com/alvinveroy/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>  
+</div>
 
+#
 ## About Me
 
 Hello! My name is Alvin Veroy, and I'm a technology leader with a passion for innovation. I have over 25 years of experience in the technology industry and have guided my clients through complex technology projects.
