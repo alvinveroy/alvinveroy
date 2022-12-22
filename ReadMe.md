@@ -56,7 +56,7 @@ It was the pre-bubble Dotcom period and the internet was still relatively new an
 
 ## Co-Founded a Like-Minded Group in IRC
 
-I co-founded a local computer enthusiast group in my area. We used to meet up in various internet cafes and chat rooms using IRC, a primitive chatroom. One of the things we used to do was exchange technical information and discussed our projects. 
+In 1998 I co-founded a local computer enthusiast group in my area. We used to meet up in various internet cafes and chat rooms using IRC, a primitive Internet chatroom. One of the things we used to do was exchange technical information and discussed our projects. 
 
 Back then, there was a lot of curiosity and enthusiasm around computers, and we would often share tips and tricks on hacking into systems and exploring the possibilities of technology. We were fascinated with exploring the boundaries of computing and seeing what it can achieve with the right expertise. 
 
