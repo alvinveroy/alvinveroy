@@ -73,3 +73,15 @@ When the dotcom bubble burst, I was left with no way to make a living. I was als
 I became a store clerk, an amusement ride operator, a restaurant dishwasher, a line cook, and eventually, a restaurant manager. Through this journey, I was finally able to afford the medication I needed. It was also during this journey that I met Dr. David Wright. He had a Ph.D. in psychology and was starting a biomechanics startup. I was intrigued, so I decided to get involved. 
 
 In my free time, I joined several new tech startups as an IT contractor, offering my skills and solutions. I enjoyed the challenge of learning new technology and coming up with creative solutions.
+
+## A Cryptocurrency Rollercoaster Ride: An Exciting Journey Through the World of Blockchain and Initial Coin Offerings!
+
+It all started in 2012 when I tried to mine Bitcoin on my spare laptop. Like many others, I was fascinated by the potential of this revolutionary technology, and I decided to start mining for Bitcoin and Litecoin. During my early days in the crypto world, I wanted to make a difference by forking Litecoin and creating my own Initial Coin Offering (ICO). 
+
+So, in 2017 I decided to take a leap of faith and return to the Philippines to become "the prime mover of blockchain technology." Full of ambition and enthusiasm, I was confident that with my knowledge, experience, and passion for blockchain technology, I could help put the Philippines on the map as an early adopter of cryptocurrency. 
+
+I got to work on developing a startup - but soon found out that things could be more complex. Every country has different values, regulations, and cultures, which posed a challenge when bringing my vision to life. Furthermore, I was greatly hindered by the fact that most people around me didn't truly understand blockchain technology or its potential applications - making it difficult to negotiate partnerships or build meaningful collaborations. 
+
+Despite these challenges, I persevered, learning as much as possible about how blockchain technology works in different countries. As time passed, it became apparent that the Silicon Valley-style tech startup would not work in the Philippines. So eventually, after several months of development work on my startup project, I realized that it wouldn't be possible to make an impact in this way. 
+
+I'm grateful for what this roller coaster journey taught me about blockchain technology - particularly lessons about how countries approach its development. This experience also gave me a greater understanding of the importance of solid networks to succeed in any venture, which has been invaluable since then!
