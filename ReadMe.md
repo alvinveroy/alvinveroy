@@ -1,5 +1,4 @@
 # Alvin Veroy
-
 > Quietly building, learning, and sharing what I've learned over 25 years in technology.
 
 <div align="center">
@@ -39,7 +38,7 @@ Writing about lessons learned from decades in technology.
 Contributing to projects that make government services and digital safety more accessible.
 
 ### 🏢 Enterprise & Corporate Experience
-Working in enterprise and corporate settings with hands-on DevSecOps experience.
+Extensive experience applying DevSecOps, decentralized systems, AI, and automation practices in enterprise and corporate settings, driving secure, scalable, and resilient infrastructure with proven, practical results.
 
 ## Recognition
 
