@@ -15,8 +15,9 @@
 
 I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions.
 
-Over the years, I've had the opportunity to:
+Experienced in IoT, embedded systems, SBC development, and LoRaWAN applications. Licensed amateur radio operator (FCC callsign [KM6MHY](https://www.qrz.com/db/KM6MHY)), passionate about wireless and electronics experimentation.
 
+Over the years, I've had the opportunity to:
 • Work with vulnerability disclosure for platforms like GCash and Viber
 • Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor
 • [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"
