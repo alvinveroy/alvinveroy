@@ -1,4 +1,5 @@
 # Alvin Veroy
+
 > Quietly building, learning, and sharing what I've learned over 25 years in technology.
 
 <div align="center">
@@ -11,18 +12,21 @@
 
 </div>
 
+---
+
 ## About
 
 I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions.
 
-Experienced in IoT, embedded systems, SBC development, and LoRaWAN applications. Licensed amateur radio operator (FCC callsign [KM6MHY](https://www.qrz.com/db/KM6MHY)), passionate about wireless and electronics experimentation.
-
 Over the years, I've had the opportunity to:
-• Work with vulnerability disclosure for platforms like GCash and Viber
-• Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor
-• [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"
-• Build tools like CodeCompass for automation and development
-• Previous contributions to [ai.fosshub.com](https://ai.fosshub.com/about-us/)
+
+• Work with vulnerability disclosure for platforms like GCash and Viber  
+• Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor  
+• [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"  
+• Build tools like CodeCompass for automation and development  
+• Previous contributions to [ai.fosshub.com](https://ai.fosshub.com/about-us/)  
+
+---
 
 ## What I Do
 
@@ -31,6 +35,9 @@ Threat analysis, vulnerability research, and building resilient systems for busi
 
 ### ⚡ Technology Consulting
 Guiding teams through emerging technology adoption, finding approaches that fit their real-world needs.
+
+### 📡 IoT & Amateur Radio
+Experienced in IoT, embedded systems, SBC development, and LoRaWAN applications. Licensed amateur radio operator (FCC callsign [KM6MHY](https://www.qrz.com/db/KM6MHY)), passionate about wireless communications and electronics experimentation.
 
 ### 💭 Knowledge Sharing
 Writing about lessons learned from decades in technology.
@@ -41,15 +48,19 @@ Contributing to projects that make government services and digital safety more a
 ### 🏢 Enterprise & Corporate Experience
 Extensive experience applying DevSecOps, decentralized systems, AI, and automation practices in enterprise and corporate settings, driving secure, scalable, and resilient infrastructure with proven, practical results.
 
+---
+
 ## Recognition
 
-• Featured by Time Magazine and CNN for security research back in 2001
-• Responsible disclosure work protecting millions of users
-• 25+ years navigating cybersecurity and technology consulting
+• Featured by Time Magazine and CNN for security research back in 2001  
+• Responsible disclosure work protecting millions of users  
+• 25+ years navigating cybersecurity and technology consulting  
+
+---
 
 ## Get in Touch
 
-Alvin Veroy | Technology Consultant | DevSecOps
+**Alvin Veroy | Technology Consultant | DevSecOps**
 
 I'm always open to conversations about security, technology strategy, or collaboration opportunities.
 
