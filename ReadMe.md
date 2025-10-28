@@ -1,4 +1,5 @@
 # Alvin Veroy
+
 > Quietly building, learning, and sharing what I've learned over 25 years in technology.
 
 <div align="center">
@@ -15,13 +16,15 @@
 
 ## About
 
-I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions. I'm the technology leader at [ai.fosshub.com](https://ai.fosshub.com/about-us/).
+I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions.
 
 Over the years, I've had the opportunity to:
+
 - Work with vulnerability disclosure for platforms like GCash and Viber
-- Contribute to civic technology through projects like BetterGov.ph
-- TechWatchPH.com Columnist "DECODED: TECH PERSPECTIVE"
+- Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor
+- [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"
 - Build tools like CodeCompass for automation and development
+- Previous contributions to [ai.fosshub.com](https://ai.fosshub.com/about-us/)
 
 My approach is straightforward: understand the problem, find what works, and share what I learn along the way.
 
@@ -33,7 +36,7 @@ My approach is straightforward: understand the problem, find what works, and sha
 Threat analysis, vulnerability research, and building resilient systems for businesses in Southeast Asia.
 
 ### ⚡ Technology Consulting  
-Helping teams adopt AI, blockchain, and AI automation practices in ways that make sense for their context. As a vibe coding specialist, I utilize multiple emerging stacks and tools with vast experience experimenting with different kinds of LLMs.
+Guiding teams through AI and decentralized systems adoption, finding approaches that fit their real-world needs. I experiment with emerging stacks, tools, and LLMs through a vibe coding lens to learn what works and what doesn't.
 
 ### 💭 Knowledge Sharing
 Writing about lessons learned—both successes and mistakes—from decades in technology.
