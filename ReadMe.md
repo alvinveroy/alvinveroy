@@ -1,5 +1,4 @@
 # Alvin Veroy
-
 > Quietly building, learning, and sharing what I've learned over 25 years in technology.
 
 <div align="center">
@@ -21,7 +20,7 @@ I'm Alvin Veroy, a technology consultant based in the Philippines. My work cente
 Over the years, I've had the opportunity to:
 - Work with vulnerability disclosure for platforms like GCash and Viber
 - Contribute to civic technology through projects like BetterGov.ph
-- Serve as Executive Technology Advisor for DICT's Scam Watch PH
+- TechWatchPH.com Columnist "DECODED: TECH PERSPECTIVE"
 - Build tools like CodeCompass for automation and development
 
 My approach is straightforward: understand the problem, find what works, and share what I learn along the way.
@@ -42,14 +41,14 @@ Writing about lessons learned—both successes and mistakes—from decades in te
 ### 🌱 Civic Technology
 Contributing to projects that make government services and digital safety more accessible.
 
-### 🎙️ Podcasting & Content
-Sharing conversations about technology, security, and the human side of building things.
+### 🏢 Enterprise & Corporate Experience
+Working in enterprise and corporate settings, highlighting real DevSecOps hands-on experience.
 
 ---
 
 ## Recognition
 
-- Featured by Time Magazine and CNN for security research
+- Featured by Time Magazine and CNN for security research back in 2001
 - Responsible disclosure work protecting millions of users
 - 25+ years navigating cybersecurity and technology consulting
 
@@ -63,10 +62,3 @@ I'm always open to conversations about security, technology strategy, or collabo
 
 📧 hello@alvin.tech  
 🌐 [alvin.tech](https://alvin.tech)  
-💼 [linkedin.com/in/alvinveroy](https://www.linkedin.com/in/alvinveroy/)
-
----
-
-<div align="center">
-<sub>Building with intention. Learning in public. Helping where I can.</sub>
-</div>
