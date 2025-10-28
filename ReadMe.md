@@ -15,7 +15,7 @@
 
 ## About
 
-I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions.
+I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions. I'm the technology leader at [ai.fosshub.com](https://ai.fosshub.com/about-us/).
 
 Over the years, I've had the opportunity to:
 - Work with vulnerability disclosure for platforms like GCash and Viber
@@ -33,7 +33,7 @@ My approach is straightforward: understand the problem, find what works, and sha
 Threat analysis, vulnerability research, and building resilient systems for businesses in Southeast Asia.
 
 ### ⚡ Technology Consulting  
-Helping teams adopt AI, blockchain, and DevSecOps practices in ways that make sense for their context.
+Helping teams adopt AI, blockchain, and AI automation practices in ways that make sense for their context. As a vibe coding specialist, I utilize multiple emerging stacks and tools with vast experience experimenting with different kinds of LLMs.
 
 ### 💭 Knowledge Sharing
 Writing about lessons learned—both successes and mistakes—from decades in technology.
@@ -56,7 +56,7 @@ Working in enterprise and corporate settings, highlighting real DevSecOps hands-
 
 ## Get in Touch
 
-Alvin Veroy | Technology Consultant | Cybersecurity Specialist
+Alvin Veroy | Technology Consultant | DevSecOps
 
 I'm always open to conversations about security, technology strategy, or collaboration opportunities.
 
