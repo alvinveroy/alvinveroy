@@ -12,50 +12,40 @@
 
 </div>
 
----
-
 ## About
 
 I'm Alvin Veroy, a technology consultant based in the Philippines. My work centers on cybersecurity, infrastructure, and helping organizations navigate digital challenges with practical solutions.
 
 Over the years, I've had the opportunity to:
 
-- Work with vulnerability disclosure for platforms like GCash and Viber
-- Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor
-- [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"
-- Build tools like CodeCompass for automation and development
-- Previous contributions to [ai.fosshub.com](https://ai.fosshub.com/about-us/)
-
-My approach is straightforward: understand the problem, find what works, and share what I learn along the way.
-
----
+• Work with vulnerability disclosure for platforms like GCash and Viber
+• Contribute to civic technology through projects like [BetterGov.ph](https://github.com/bettergovph) as a volunteer and contributor
+• [TechWatchPH.com](https://techwatchph.com/) Columnist "DECODED: TECH PERSPECTIVE"
+• Build tools like CodeCompass for automation and development
+• Previous contributions to [ai.fosshub.com](https://ai.fosshub.com/about-us/)
 
 ## What I Do
 
 ### 🛡️ Security & Infrastructure
 Threat analysis, vulnerability research, and building resilient systems for businesses in Southeast Asia.
 
-### ⚡ Technology Consulting  
-Guiding teams through AI and decentralized systems adoption, finding approaches that fit their real-world needs. I experiment with emerging stacks, tools, and LLMs through a vibe coding lens to learn what works and what doesn't.
+### ⚡ Technology Consulting
+Guiding teams through emerging technology adoption, finding approaches that fit their real-world needs.
 
 ### 💭 Knowledge Sharing
-Writing about lessons learned—both successes and mistakes—from decades in technology.
+Writing about lessons learned from decades in technology.
 
 ### 🌱 Civic Technology
 Contributing to projects that make government services and digital safety more accessible.
 
 ### 🏢 Enterprise & Corporate Experience
-Working in enterprise and corporate settings, highlighting real DevSecOps hands-on experience.
-
----
+Working in enterprise and corporate settings with hands-on DevSecOps experience.
 
 ## Recognition
 
-- Featured by Time Magazine and CNN for security research back in 2001
-- Responsible disclosure work protecting millions of users
-- 25+ years navigating cybersecurity and technology consulting
-
----
+• Featured by Time Magazine and CNN for security research back in 2001
+• Responsible disclosure work protecting millions of users
+• 25+ years navigating cybersecurity and technology consulting
 
 ## Get in Touch
 
@@ -63,5 +53,4 @@ Alvin Veroy | Technology Consultant | DevSecOps
 
 I'm always open to conversations about security, technology strategy, or collaboration opportunities.
 
-📧 hello@alvin.tech  
-🌐 [alvin.tech](https://alvin.tech)  
+📧 hello@alvin.tech
